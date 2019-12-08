@@ -1,0 +1,25 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "index.js",
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlllR/private-test.git"
+  },
+  "files":[
+     "dist"
+  ],
+  "keywords": [
+    "none"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlllR/private-test/issues"
+  },
+  "homepage": "https://github.com/kevinlllR/private-test#readme"
+}
